@@ -1,0 +1,15 @@
+{
+  "name": "timeserver",
+  "version": "1.0.0",
+  "description": "Simple server returning plain text",
+  "main": "app.js",
+  "dependencies": {
+    "ip": "^1.1.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MC",
+  "license": "ISC"
+}
