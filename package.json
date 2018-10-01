@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "Simple server returning plain text",
   "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mc0re/timeserver.git`"
+  },
   "dependencies": {
     "ip": "^1.1.5"
   },
